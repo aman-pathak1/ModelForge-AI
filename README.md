@@ -17,16 +17,16 @@ Built with scalability and performance in mind, it empowers users to rapidly dev
 
 ## ⚡ Key Capabilities
 
-- 📂 **Seamless Data Ingestion** — Upload large CSV datasets effortlessly  
-- 🧠 **Automated Preprocessing** — Missing value handling, encoding, and scaling  
-- 📊 **Exploratory Data Analysis** — Descriptive statistics & insights  
-- 📈 **Distribution Analysis** — KDE visualization & normalization  
-- ⚙️ **Feature Engineering** — Skewness correction using PowerTransformer  
-- 🤖 **Multi-Model Training** — Classification & regression pipelines  
-- 🏆 **Model Leaderboard** — Compare performance across models  
-- 🎯 **Hyperparameter Optimization** — GridSearchCV for best results  
-- 📉 **Feature Importance Insights** — Understand key drivers  
-- 💾 **Export Ready Outputs** — Download cleaned datasets & results  
+-  **Seamless Data Ingestion** — Upload large CSV datasets effortlessly  
+-  **Automated Preprocessing** — Missing value handling, encoding, and scaling  
+-  **Exploratory Data Analysis** — Descriptive statistics & insights  
+-  **Distribution Analysis** — KDE visualization & normalization  
+-  **Feature Engineering** — Skewness correction using PowerTransformer  
+-  **Multi-Model Training** — Classification & regression pipelines  
+-  **Model Leaderboard** — Compare performance across models  
+-  **Hyperparameter Optimization** — GridSearchCV for best results  
+-  **Feature Importance Insights** — Understand key drivers  
+-  **Export Ready Outputs** — Download cleaned datasets & results  
 
 ---
 ## 🧠 System Workflow
